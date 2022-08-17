@@ -10,6 +10,7 @@ It allows you to hide more files into a "container" one (.mp3 , .jpg, .pdf teste
 # INSTALLATION (works only on windows)
 
 > pip install -r requirements.txt
+> python script.py [arguments]
 
 # USAGE
 > -e join & encrypt [CONTAINER FILE]

@@ -10,17 +10,25 @@ It allows you to hide more files into a "container" one (.mp3 , .jpg, .pdf teste
 # INSTALLATION (works only on windows)
 
 > pip install -r requirements.txt
+
 > python script.py [arguments]
 
 # USAGE
 > -e join & encrypt [CONTAINER FILE]
+
 > -oe only encrypt [CONTAINER FILE]
+
 > -d decrypt [FILE]
+
 > --password [PASSWORD]
+
 > --files ['file','list','as','this'] [FILES TO HIDE]
 
 # I JOINED MY FILES, AND NOW
 > Install WinRar
+
 > Rename Joined file from ".extension" to ".zip"
+
 > Double click
+
 > Enjoy the magic of Winrar's bugs
